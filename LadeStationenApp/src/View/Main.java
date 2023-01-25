@@ -42,7 +42,7 @@ public class Main {
                     + " , GeoPosition: " + "Breitengrad: " + ladeStation.getBreitengrad() + " Längengrad: " +
                     ladeStation.getLaengengrad() + " , Anschlussleistung: " + ladeStation.getAnschlussleistung());
         }
-
+penis
 
 //-------------------------------------------------------------------------------------------
 // Teilaufgabe3
